@@ -1,4 +1,4 @@
-# Encoding tools by Bout de code
+# Body parser tools by Bout de code
 
 ![https://boutdecode.fr](https://boutdecode.fr/img/logo.png)
 
