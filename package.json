@@ -1,6 +1,6 @@
 {
   "name": "@boutdecode/body-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Body parser lib by boutdecode for Yion",
   "main": "plugin/body-parser.js",
   "scripts": {
