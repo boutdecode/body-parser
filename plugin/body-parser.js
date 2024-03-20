@@ -47,7 +47,7 @@ module.exports = () => (context, next) => {
     })
 
     bus.on('finish', () => next())
-      .on('finish', () => tmpFiles.forEach(file => fs.unlink(file, () => {})))
+    res.on('finish', () => tmpFiles.forEach(file => fs.unlink(file, () => {})))
 
     bus.on('error', (e) => {
       res.writeHead(500, e.message)
