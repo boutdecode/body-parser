@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/boutdecode/body-parser/compare/v1.0.2...v1.0.3) (2024-03-20)
+
+
+### Bug Fixes
+
+* Delete tmp files ([fcf9783](https://github.com/boutdecode/body-parser/commit/fcf97831783048256804c77a5ebd79538e6bd0d7))
+
 ## [1.0.2](https://github.com/boutdecode/body-parser/compare/v1.0.1...v1.0.2) (2024-02-29)
 
 
